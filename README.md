@@ -1,1 +1,3 @@
-# week-10
+# week-10  
+Raymond Nguyen  
+Aaron Dimatulac
